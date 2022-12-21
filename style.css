@@ -17,6 +17,17 @@ body {
   margin: 0;
 }
 
+h1 {
+  background-color: rebeccapurple;
+  color: #fff;
+  padding: 25px;
+  border-radius: 50px;
+  position: absolute;
+  font-family: inherit;
+  margin-bottom: 300px;
+  border: none;
+}
+
 .btn {
   background-color: rebeccapurple;
   border-radius: 50px;
